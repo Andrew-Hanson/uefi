@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 #log = "0.4"
-#r-efi = "4.1.0"
+r-efi = "4.1.0"
 #uefi = "0.19"
 #uefi-services = "0.16"
 
